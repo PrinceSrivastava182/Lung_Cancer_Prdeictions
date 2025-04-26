@@ -98,7 +98,7 @@ This project successfully demonstrates a full machine learning pipeline for pred
 ## 👨‍💻 Author
 **Prince Srivastava**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-srivastava3012/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrinceSrivastava182/Lung_Cancer_Risk_Assessment)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrinceSrivastava182/)
 
 ## ⭐ Credits
 - **Dataset**: Public lung cancer dataset from [Kaggle](https://www.kaggle.com/datasets/iamtanmayshukla/lung-cancer-data?resource=download)
